@@ -9,8 +9,8 @@
 ⋊ :woman_technologist: Hello, I'm Constança! <br>
 ⋊ :white_heart: I'm interested in UI and UX design, branding and web development<br>
 ⋊ :books: Studying <b>Multimedia Technologies and Design</b><br>
-⋊ :telescope: I’m currently working on a project for university<br>
-⋊ :seedling: Still learning about web development<br>
+⋊ :telescope: Working on a project for university<br>
+⋊ :seedling: I'm currently learning more about web development and outsystems <br>
 ⋊ :watch: In my free time I enjoy playing videogames, listening to music and learning more about my areas of interest<br>
 ⋊ :mailbox:  How to reach me: ...
   </p>
