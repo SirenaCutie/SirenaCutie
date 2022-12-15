@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/constança-fernandes-6b165a1ba/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/SirenaCutie">
+  <a href="https://twitter.com/SirenaCutie" target="_blank">
      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
    </a>
 </div>
