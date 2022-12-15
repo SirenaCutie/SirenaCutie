@@ -17,10 +17,10 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/constança-fernandes-6b165a1ba/" target="_blank">
+  <a href="https://www.linkedin.com/in/constança-fernandes-6b165a1ba/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/SirenaCutie" target="_blank">
+  <a href="https://twitter.com/SirenaCutie">
      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
    </a>
 </div>
